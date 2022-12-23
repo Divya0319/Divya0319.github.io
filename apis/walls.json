@@ -1,70 +1,52 @@
-[
-	{
-	"TITLE":"Pair of Marigold",
-	"URL":"https://divya0319.github.io/walls/pair_of_marigold.jpeg"
-	},
-	{
-	"TITLE":"Terracotta toys",
-	"URL":"https://divya0319.github.io/walls/terracotta_toys.jpeg"
-	},
-	{
-	"TITLE":"Pipes under sun shadow",
-	"URL":"https://divya0319.github.io/walls/pipes_under_sun_shadow.jpeg"
-	},
-	{
-	"TITLE":"Yellow and pink rose",
-	"URL":"https://divya0319.github.io/walls/yellow_and_pink_rose.jpeg"
-	},
-	{
-	"TITLE":"Red leaves among green",
-	"URL":"https://divya0319.github.io/walls/red_leaves_among_green.jpg"
-	},
-	{
-	"TITLE":"Sun focused out",
-	"URL":"https://divya0319.github.io/walls/sun_focused_out.jpeg"
-	},
-	{
-	"TITLE":"Bulb in half sun",
-	"URL":"https://divya0319.github.io/walls/bulb_in_half_sun.jpeg"
-	},
-	{
-	"TITLE":"White flower",
-	"URL":"https://divya0319.github.io/walls/white_flower.jpg"
-	},
-	{
-	"TITLE":"Yellow flower with green leaves",
-	"URL":"https://divya0319.github.io/walls/yellow_flower_with_green_leaves.jpeg"
-	},
-	{
-	"TITLE":"Ceiling architecture",
-	"URL":"https://divya0319.github.io/walls/ceiling_architecture.jpeg"
-	},
-	{
-	"TITLE":"Dark Pink flower with yellow pollen",
-	"URL":"https://divya0319.github.io/walls/dark_pink_flower_with_yellow_pollen.jpeg"
-	},
-	{
-	"TITLE":"Dark dusk sun among palm leaves",
-	"URL":"https://divya0319.github.io/walls/dark_dusk_sun_among_palm_leaves.jpeg"
-	},
-	{
-	"TITLE":"Bunch of white flowers",
-	"URL":"https://divya0319.github.io/walls/bunch_of_white_flowers.jpeg"
-	},
-	{
-	"TITLE":"Dry yellow grass",
-	"URL":"https://divya0319.github.io/walls/dry_yellow_grass.jpeg"
-	},
-	{
-	"TITLE":"Light yellow flower",
-	"URL":"https://divya0319.github.io/walls/light_yellow_flower.jpeg"
-	},
-	{
-	"TITLE":"Mop in sun",
-	"URL":"https://divya0319.github.io/walls/mop_in_sun.jpeg"
-	},
-	{
-	"TITLE":"Plant reaching for camera",
-	"URL":"https://divya0319.github.io/walls/plant_reaching_for_camera.jpeg"
-	}
-]
+[ {
+  "TITLE" : "Bulb in half sun",
+  "URL" : "https://divya0319.github.io/walls/bulb_in_half_sun.jpeg"
+}, {
+  "TITLE" : "Bunch of white flowers",
+  "URL" : "https://divya0319.github.io/walls/bunch_of_white_flowers.jpeg"
+}, {
+  "TITLE" : "Ceiling architecture",
+  "URL" : "https://divya0319.github.io/walls/ceiling_architecture.jpeg"
+}, {
+  "TITLE" : "Dark dusk sun among palm leaves",
+  "URL" : "https://divya0319.github.io/walls/dark_dusk_sun_among_palm_leaves.jpeg"
+}, {
+  "TITLE" : "Dark pink flower with yellow pollen",
+  "URL" : "https://divya0319.github.io/walls/dark_pink_flower_with_yellow_pollen.jpeg"
+}, {
+  "TITLE" : "Dry yellow grass",
+  "URL" : "https://divya0319.github.io/walls/dry_yellow_grass.jpeg"
+}, {
+  "TITLE" : "Light yellow flower",
+  "URL" : "https://divya0319.github.io/walls/light_yellow_flower.jpeg"
+}, {
+  "TITLE" : "Mop in sun",
+  "URL" : "https://divya0319.github.io/walls/mop_in_sun.jpeg"
+}, {
+  "TITLE" : "Pair of marigold",
+  "URL" : "https://divya0319.github.io/walls/pair_of_marigold.jpeg"
+}, {
+  "TITLE" : "Pipes under sun shadow",
+  "URL" : "https://divya0319.github.io/walls/pipes_under_sun_shadow.jpeg"
+}, {
+  "TITLE" : "Plant reaching for camera",
+  "URL" : "https://divya0319.github.io/walls/plant_reaching_for_camera.jpeg"
+}, {
+  "TITLE" : "Red leaves among green",
+  "URL" : "https://divya0319.github.io/walls/red_leaves_among_green.jpeg"
+}, {
+  "TITLE" : "Sun focused out",
+  "URL" : "https://divya0319.github.io/walls/sun_focused_out.jpeg"
+}, {
+  "TITLE" : "Terracotta toys",
+  "URL" : "https://divya0319.github.io/walls/terracotta_toys.jpeg"
+}, {
+  "TITLE" : "White flower",
+  "URL" : "https://divya0319.github.io/walls/white_flower.jpeg"
+}, {
+  "TITLE" : "Yellow and pink rose",
+  "URL" : "https://divya0319.github.io/walls/yellow_and_pink_rose.jpeg"
+}, {
+  "TITLE" : "Yellow flower with green leaves",
+  "URL" : "https://divya0319.github.io/walls/yellow_flower_with_green_leaves.jpeg"
+} ]
