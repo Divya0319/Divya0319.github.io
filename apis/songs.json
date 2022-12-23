@@ -1,44 +1,36 @@
-[
-	{
-		"TITLE":"Birds 3",
-		"SINGER":"Birds",
-		"DURATION":"02:57",
-		"URL":"https://divya0319.github.io/songs/Birds_3.mp3"
-	},
-	{
-		"TITLE":"Night In Gale",
-		"SINGER":"Nightingale",
-		"DURATION":"02:07",
-		"URL":"https://divya0319.github.io/songs/Night_in_gale.mp3"
-	},
-	{
-		"TITLE":"Robin",
-		"SINGER":"Robin",
-		"DURATION":"02:45",
-		"URL":"https://divya0319.github.io/songs/Robin.mp3"
-	},
-	{
-		"TITLE":"Robin 2",
-		"SINGER":"Robin",
-		"DURATION":"01:36",
-		"URL":"https://divya0319.github.io/songs/Robin_2.mp3"
-	},
-	{
-		"TITLE":"Sabia",
-		"SINGER":"Sabia",
-		"DURATION":"01:14",
-		"URL":"https://divya0319.github.io/songs/Sabia.mp3"
-	},
-	{
-		"TITLE":"Sabia 2",
-		"SINGER":"Sabia",
-		"DURATION":"03:45",
-		"URL":"https://divya0319.github.io/songs/Sabia_2.mp3"
-	},
-	{
-		"TITLE":"Triene",
-		"SINGER":"Triene",
-		"DURATION":"01:12",
-		"URL":"https://divya0319.github.io/songs/Treine.mp3"
-	}
-]
+[ {
+  "SINGER" : "Birds 3",
+  "TITLE" : "Birds 3",
+  "DURATION" : "02:57",
+  "URL" : "https://divya0319.github.io/songs/Birds_3.mp3"
+}, {
+  "SINGER" : "Night in gale",
+  "TITLE" : "Night in gale",
+  "DURATION" : "02:7",
+  "URL" : "https://divya0319.github.io/songs/Night_in_gale.mp3"
+}, {
+  "SINGER" : "Robin",
+  "TITLE" : "Robin",
+  "DURATION" : "02:45",
+  "URL" : "https://divya0319.github.io/songs/Robin.mp3"
+}, {
+  "SINGER" : "Robin 2",
+  "TITLE" : "Robin 2",
+  "DURATION" : "01:36",
+  "URL" : "https://divya0319.github.io/songs/Robin_2.mp3"
+}, {
+  "SINGER" : "Sabia",
+  "TITLE" : "Sabia",
+  "DURATION" : "01:14",
+  "URL" : "https://divya0319.github.io/songs/Sabia.mp3"
+}, {
+  "SINGER" : "Sabia 2",
+  "TITLE" : "Sabia 2",
+  "DURATION" : "03:45",
+  "URL" : "https://divya0319.github.io/songs/Sabia_2.mp3"
+}, {
+  "SINGER" : "Treine",
+  "TITLE" : "Treine",
+  "DURATION" : "01:12",
+  "URL" : "https://divya0319.github.io/songs/Treine.mp3"
+} ]
