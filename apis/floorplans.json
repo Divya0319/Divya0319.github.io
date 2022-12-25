@@ -1,58 +1,115 @@
 [ {
+  "buildUpArea" : "460 sqft",
+  "facing" : "North",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/1.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/1.jpg",
+  "plotArea" : "500 sqft"
 }, {
+  "buildUpArea" : "860 sqft",
+  "facing" : "South",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/2.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/2.jpg",
+  "plotArea" : "900 sqft"
 }, {
+  "buildUpArea" : "660 sqft",
+  "facing" : "West",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/3.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/3.jpg",
+  "plotArea" : "700 sqft"
 }, {
+  "buildUpArea" : "500 sqft",
+  "facing" : "East",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/4.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/4.jpg",
+  "plotArea" : "600 sqft"
 }, {
+  "buildUpArea" : "460 sqft",
+  "facing" : "North",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/5.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/5.jpg",
+  "plotArea" : "500 sqft"
 }, {
+  "buildUpArea" : "860 sqft",
+  "facing" : "South",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/6.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/6.jpg",
+  "plotArea" : "900 sqft"
 }, {
+  "buildUpArea" : "660 sqft",
+  "facing" : "West",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/7.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/7.jpg",
+  "plotArea" : "700 sqft"
 }, {
+  "buildUpArea" : "500 sqft",
+  "facing" : "East",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/8.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/8.jpg",
+  "plotArea" : "600 sqft"
 }, {
+  "buildUpArea" : "460 sqft",
+  "facing" : "North",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/9.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/9.jpg",
+  "plotArea" : "500 sqft"
 }, {
+  "buildUpArea" : "860 sqft",
+  "facing" : "South",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/11.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/11.jpg",
+  "plotArea" : "900 sqft"
 }, {
+  "buildUpArea" : "660 sqft",
+  "facing" : "West",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/12.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/12.jpg",
+  "plotArea" : "700 sqft"
 }, {
+  "buildUpArea" : "500 sqft",
+  "facing" : "East",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/13.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/13.jpg",
+  "plotArea" : "600 sqft"
 }, {
+  "buildUpArea" : "460 sqft",
+  "facing" : "North",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/14.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/14.jpg",
+  "plotArea" : "500 sqft"
 }, {
+  "buildUpArea" : "860 sqft",
+  "facing" : "South",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/15.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/15.jpg",
+  "plotArea" : "900 sqft"
 }, {
+  "buildUpArea" : "660 sqft",
+  "facing" : "West",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/16.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/16.jpg",
+  "plotArea" : "700 sqft"
 }, {
+  "buildUpArea" : "500 sqft",
+  "facing" : "East",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/17.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/17.jpg",
+  "plotArea" : "600 sqft"
 }, {
+  "buildUpArea" : "460 sqft",
+  "facing" : "North",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/18.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/18.jpg",
+  "plotArea" : "500 sqft"
 }, {
+  "buildUpArea" : "860 sqft",
+  "facing" : "South",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/19.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/19.jpg",
+  "plotArea" : "900 sqft"
 }, {
+  "buildUpArea" : "660 sqft",
+  "facing" : "West",
   "title" : "Floor Plan",
-  "url" : "https://divya0319.github.io/floorPlans/20.jpg"
+  "url" : "https://divya0319.github.io/floorPlans/20.jpg",
+  "plotArea" : "700 sqft"
 } ]
