@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vastuconstruction.plans",
+    "sha256_cert_fingerprints":
+    ["9B:8D:0A:A8:C3:FF:2D:4F:04:09:24:59:6B:CE:8C:86:EC:36:1E:A9:5B:69:BF:15:7F:29:62:F6:30:DE:29:93"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://divya0319.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vastuconstruction.plans",
+    "sha256_cert_fingerprints":
+    ["9B:8D:0A:A8:C3:FF:2D:4F:04:09:24:59:6B:CE:8C:86:EC:36:1E:A9:5B:69:BF:15:7F:29:62:F6:30:DE:29:93"]
+  }
+}]
