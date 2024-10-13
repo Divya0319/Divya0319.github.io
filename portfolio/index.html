@@ -2,13 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
-            text-align: center;
             padding: 50px;
+        }
+
+        /* Container for centering the card */
+        .container {
+            display: flex;            /* Flexbox for centering */
+            justify-content: center;  /* Center horizontally */
         }
 
         /* Larger card container */
@@ -16,8 +22,8 @@
             background-color: #fff;
             border: 1px solid #ddd;
             border-radius: 10px;
-            width: 500px;  /* Increased width */
-            margin: 0 auto;
+            width: 1000px;  /* Increased width */
+            margin: 50px auto;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);  /* Slightly stronger shadow */
             overflow: hidden;
         }
@@ -37,6 +43,13 @@
             font-size: 1.2em;  /* Slightly larger text */
             color: #333;
         }
+		
+		/* Styling for the enlarged headline */
+        .card-body .headline {
+            font-size: 1.5em; /* Larger font for the headline */
+            font-weight: bold; /* Bold for emphasis */
+            margin-bottom: 10px; /* Space between headline and details */
+        }
 
         /* Basic reset for margins and padding */
         * {
@@ -48,12 +61,47 @@
 </head>
 <body>
 
-    <div class="card">
-        <div class="card-header">Welcome to Portfolio</div>
-        <div class="card-body">
-            <p>This is the starting point of my portfolio.</p>
-        </div>
-    </div>
+	<div class="container">
+		<div class="card">
+			<div class="card-header">RaahiReserve</div>
+			<div class="card-body">
+				<p class="headline">A comprehensive Spring Boot application designed to simplify bus booking and route management for a seamless travel experience.</p>
+				<p>
+					<ul>
+						<li><strong>Core Functionality: </strong>Book trips from selected source and destination locations with ease, assign buses and seats based on passengers' preferences, and mark passengers as traveled on their scheduled date (travel simulation).</li>
+						<li><strong>Payment Integration: </strong>In-house payment gateway with multiple modes for a smooth booking payment experience, featuring a timeout mechanism to enhance security.</li>
+						<li><strong>Performance Optimization: </strong>Java multithreading is utilized to reduce server startup time.</li>
+						<li><strong>Security: </strong>All endpoints are secured using Spring Security, preventing unauthorized access.</li>
+						<li><strong>Entity Relationships: </strong>Database schema designed with thoughtful entity relationships and mappings.</li>
+						<li><strong>User-Friendly Features: </strong>Easily view past booking details with just a few clicks.</li>
+					</ul>
+				</p>
+				
+				<i>Previously deployed on AWS Elastic Beanstalk with a MySQL database hosted on AWS RDS.</i>
+			</div>
+		</div>
+	</div>
+	
+	<div class="container">
+		<div class="card">
+			<div class="card-header">PayLinkSim </div>
+			<div class="card-body">
+				<p class="headline">A RazorPay-integrated payment gateway simulation that securely generates payment links, tracks transactions, and manages statuses with JWT-authenticated APIs.</p>
+				<p>
+					<ul>
+						<li><strong>Core Functionality: </strong>Creates dummy orders with custom order amounts and interacts with the RazorPay API to generate payment links.</li>
+						<li><strong>Transaction Handling: </strong>Consumes RazorPay responses (success/failure), updates payment statuses, and records the details in the database.</li>
+						<li><strong>API Documentation & Testing: </strong>SpringDoc OpenAPI is integrated for seamless API testing and documentation.</li>
+						<li><strong>Security: </strong>JWT token authentication secures all endpoints, with token validation logic ensuring the authenticity and validity of tokens.</li>
+						<li><strong>Entity Relationships: </strong>Database schema designed with thoughtful entity relationships and mappings.</li>
+						<li><strong>User-Friendly Features: </strong>Easily view past booking details with just a few clicks.</li>
+					</ul>						
+				</p>
+
+				<i>Previously deployed on AWS Elastic Beanstalk with a PostgreSQL database hosted on AWS RDS.</i>
+			</div>
+		</div>
+	</div>
 
 </body>
 </html>
